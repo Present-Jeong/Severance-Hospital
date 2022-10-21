@@ -1,3 +1,3 @@
 # Severance-Hospital
 
-Most codes cannot be uploaded for security reasons.
+Many codes cannot be uploaded for security reasons.
